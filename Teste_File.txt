@@ -1,7 +1,0 @@
-#Hello Text File
-
-*Kenny
-
-*Kenny Pinheiro
-
-##Olá Jéssica Vylia!
